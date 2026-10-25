@@ -1,0 +1,6 @@
+{
+  "Name": "Rpa Challenge",
+  "ProjectType": "Process",
+  "Description": "Desafio de RPA da Uipath",
+  "MainFile": "Main.xaml"
+}

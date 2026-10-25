@@ -1,0 +1,14 @@
+# Cache, build e dependências locais do UiPath Studio (recriados automaticamente)
+.local/
+
+# Arquivos gerados automaticamente pelo Studio para assistentes de IA
+AGENTS.md
+CLAUDE.md
+
+# Pacotes publicados
+*.nupkg
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
